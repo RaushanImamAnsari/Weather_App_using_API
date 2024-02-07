@@ -6,7 +6,7 @@
 - JAVASCRIPT is for making it interactive with client
 - And also we use API intergration from openweathermap.org for Real time Weather data i.e. its show the real time weather information of any city 
 
-
-[LinkedIn]:[www.linkedin.com/in/raushan-imam-8705xa]
+### Connected with me:
+LinkedIn:[www.linkedin.com/in/raushan-imam-8705xa]
 
 AUTHOR --- <b> RAUSHAN IMAM ANSARI </b>
