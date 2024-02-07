@@ -4,7 +4,7 @@
 - HTML for basic Structure of this app
 - CSS for beautifying the App
 - JAVASCRIPT is for making it interactive with client
-- And also we use API intergration from openweathermap.org for Real time Weather data
+- And also we use API intergration from openweathermap.org for Real time Weather data i.e. its show the real time weather information of any city 
 
 
 [LinkedIn]:[www.linkedin.com/in/raushan-imam-8705xa]
